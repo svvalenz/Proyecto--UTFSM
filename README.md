@@ -1,6 +1,6 @@
 # Proyecto-DAP-UTFSM
 
-Hola!! Esta es la carpeta de repositorio de nuestro proyecto conjunto =) Pueden aquí subir y descargar la información que quieran. Nuestro enfoque será **estudiar las corridas de depósitos bancarios (a plazo) de las personas y el efecto que tiene esto en la red bancaria en Chile.**
+Hola!! Esta es la carpeta de repositorio de nuestro proyecto conjunto =) Pueden aquí subir y descargar la información que quieran. Nuestro enfoque será **estudiar y modelar las corridas de depósitos bancarios (a plazo) de las personas y el efecto que tiene esto en la red bancaria en Chile.**
 
 La bibliografía contiene carpetas con la siguiente información:
 
