@@ -14,4 +14,4 @@ La bibliografía contiene carpetas con la siguiente información:
 
 
 Carta Gantt del Proyecto:
-https://app.clickup.com/9013018641/v/g/8ckfg0h-273
+[https://app.clickup.com/9013018641/v/g/8ckfg0h-273](https://sharing.clickup.com/9013018641/g/h/8ckfg0h-273/d253ca427eb05cf)https://sharing.clickup.com/9013018641/g/h/8ckfg0h-273/d253ca427eb05cf
