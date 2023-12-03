@@ -1,0 +1,16 @@
+# This CITATION.cff file was generated with cffinit.
+# Visit https://bit.ly/cffinit to generate yours today!
+
+cff-version: 1.2.0
+title: Proyecto-DAP-UTFSM
+message: >-
+  If you use this dataset, please cite it using the metadata
+  from this file.
+type: dataset
+authors:
+  - given-names: Sebastián
+    family-names: Valenzuela
+identifiers:
+  - type: url
+    value: 'https://github.com/svvalenz/Proyecto-DAP-UTFSM/'
+repository-code: 'https://github.com/svvalenz/Proyecto-DAP-UTFSM/'
